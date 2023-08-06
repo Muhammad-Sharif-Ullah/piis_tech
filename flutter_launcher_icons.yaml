@@ -1,0 +1,11 @@
+flutter_icons:
+  android: "ic_launcher"
+  ios: true
+  image_path: "assets/images/piis_tech_logo.png"
+  min_sdk_android: 16 # android min sdk min:16, default 21
+  # adaptive_icon_background: "#ffffff"
+  remove_alpha_ios: true
+
+
+# flutter pub get
+# flutter pub run flutter_launcher_icons -f flutter_launcher_icons.yaml
